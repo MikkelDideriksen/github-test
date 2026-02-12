@@ -10,4 +10,5 @@ Console.WriteLine("hej med dig");
 
 
 
-Console.WriteLine("endu en gang");
+Console.WriteLine("super jacob er et dumt navn");
+// superjacob er et dumt navn
